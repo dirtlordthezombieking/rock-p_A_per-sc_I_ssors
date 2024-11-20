@@ -1,1 +1,4 @@
-//todo
+body
+{
+	background-image: repeating-conic-gradient(#012, 0deg, #000, 5deg, #001, 10deg, #000, 15de, #012, 20deg)
+}
