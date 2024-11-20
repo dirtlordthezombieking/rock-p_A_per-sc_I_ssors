@@ -7,8 +7,12 @@ body
 .img50
 {
 	max-width:50%;
+	width:100%;
+	object-fit:contain;
 }
 .img25
 {
 	max-width:25%;
+	width:100%;
+	object-fit:contain;
 }
