@@ -1,4 +1,4 @@
 body
 {
-	background-image: repeating-conic-gradient(#012 0deg, #000 5deg, #001 10deg, #000 15deg, #012 20deg)
+	background-image: repeating-conic-gradient(from 0deg, #012 0deg, #000 5deg, #001 10deg, #000 15deg, #012 20deg)
 }
