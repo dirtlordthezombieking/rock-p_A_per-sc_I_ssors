@@ -4,7 +4,6 @@ body
 	height:100vh;
 	align-items:center;
 	animation:60s linear infinite rotate;
-	position:absolute;
 }
 @keyframes rotate
 {
