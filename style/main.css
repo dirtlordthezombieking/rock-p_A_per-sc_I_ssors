@@ -5,7 +5,7 @@ body
 	align-items:center;
 	animation: 60s linear infinite rotate;
 }
-@keyframes rot
+@keyframes rotate
 {
 	0%
 	{
