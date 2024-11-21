@@ -3,6 +3,18 @@ body
 	background-image:repeating-conic-gradient(from 0 at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
 	height:100vh;
 	align-items:center;
+	animation: 60s linear infinite rotate;
+}
+@keyframes rot
+{
+	0%
+	{
+		transform:rotate(0);
+	}
+	100%
+	{
+		transform:rotate(360deg);
+	}
 }
 .img50
 {
