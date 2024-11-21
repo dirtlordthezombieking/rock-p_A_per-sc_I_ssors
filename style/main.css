@@ -11,9 +11,85 @@ body
 	{
 		background-image:repeating-conic-gradient(from 0 at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
 	}
+	5%
+	{
+		background-image:repeating-conic-gradient(from 1deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	10%
+	{
+		background-image:repeating-conic-gradient(from 2deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	15%
+	{
+		background-image:repeating-conic-gradient(from 3deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	20%
+	{
+		background-image:repeating-conic-gradient(from 4deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	25%
+	{
+		background-image:repeating-conic-gradient(from 5deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	30%
+	{
+		background-image:repeating-conic-gradient(from 6deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	35%
+	{
+		background-image:repeating-conic-gradient(from 7deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	40%
+	{
+		background-image:repeating-conic-gradient(from 8deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	45%
+	{
+		background-image:repeating-conic-gradient(from 9deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	50%
+	{
+		background-image:repeating-conic-gradient(from 10deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	55%
+	{
+		background-image:repeating-conic-gradient(from 11deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	60%
+	{
+		background-image:repeating-conic-gradient(from 12deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	65%
+	{
+		background-image:repeating-conic-gradient(from 13deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	70%
+	{
+		background-image:repeating-conic-gradient(from 14deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	75%
+	{
+		background-image:repeating-conic-gradient(from 15deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	80%
+	{
+		background-image:repeating-conic-gradient(from 16deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	85%
+	{
+		background-image:repeating-conic-gradient(from 17deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	90%
+	{
+		background-image:repeating-conic-gradient(from 18deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
+	95%
+	{
+		background-image:repeating-conic-gradient(from 19deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+	}
 	100%
 	{
-		background-image:repeating-conic-gradient(from 360deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
+		background-image:repeating-conic-gradient(from 20deg at 50% 0%, #012 0, #000 5deg, #001 10deg, #000 15deg, #012 20deg);
 	}
 }
 .img50
