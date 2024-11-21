@@ -100,12 +100,14 @@ body
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+	image-rendering:pixelated;
 }
 .img25
 {
 	max-width:25%;
 	width:100%;
 	object-fit:contain;
+	image-rendering:pixelated;
 }
 .buttons
 {
