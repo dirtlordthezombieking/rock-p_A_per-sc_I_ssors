@@ -1,3 +1,11 @@
+let loaded=false;
+function chose(id)
+{
+	if(!loaded)
+	{
+		return;
+	}
+}
 let data=
 [
 	0,0,0,
@@ -35,7 +43,7 @@ let nodeData=
 let layer2Data=
 [
 //data type
-	[ 0, 1, 2],
+	[ 0, 1, 2],)
 	[ 3, 4, 5],
 	[ 6, 7, 8],
 	[ 9,10,11],
@@ -121,3 +129,4 @@ function mutate()
 //rock confidence
 //paper confidentce
 //scissors confidence
+loaded=true;
