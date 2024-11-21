@@ -96,7 +96,16 @@ function mutate()
 		}
 	}
 }
-
+function calculate ()
+{
+	for(let n=0;n<5;n++)
+	{
+		for(let w=0;w<3;w++)
+		{
+			
+		}
+	}
+}
 
 
 
